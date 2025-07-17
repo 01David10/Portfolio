@@ -1929,10 +1929,9 @@ input::-moz-focus-inner {
 }
 
 .intro-pic {
-  background-color: #02182c;
   background-repeat: no-repeat;
   background-position: top center;
-  background-image: url(../images/hero-pic.jpeg);
+  background-image: url(../images/sin_fondo.png);
   background-size: cover;
   position: absolute;
   top: 20%;
