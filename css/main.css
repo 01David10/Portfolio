@@ -2569,23 +2569,6 @@ input::-moz-focus-inner {
   min-height: 44.8rem;
 }
 
-.services-list .item-service__content {
-  border-top: 1px solid rgba(255, 255, 255, 0.1);
-  padding-top: 3.6rem;
-}
-
-.services-list .item-service__content::before {
-  display: block;
-  content: counter(ctr, decimal-leading-zero) ".";
-  counter-increment: ctr;
-  margin-bottom: 4.8rem;
-  font-family: "Roboto", sans-serif;
-  font-weight: 300;
-  font-size: 8rem;
-  line-height: 1;
-  color: #cf1767;
-}
-
 /* ------------------------------------------------------------------- 
  * responsive:
  * services
